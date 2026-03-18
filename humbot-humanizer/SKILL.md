@@ -9,7 +9,7 @@ Transform AI-generated or robotic text into natural, human-like writing using th
 
 ## ⚠️ First-Time Usage Check
 
-**IMPORTANT:** Before using this skill for the first time, check if the API key is configured:
+**CRITICAL:** Before attempting to humanize any text, you MUST check if the API key is configured:
 
 ```bash
 if [ -z "$HUMBOT_API_KEY" ]; then
@@ -17,28 +17,54 @@ if [ -z "$HUMBOT_API_KEY" ]; then
 fi
 ```
 
-If not configured, **immediately show the user**:
+### If API Key is NOT Configured
+
+**STOP immediately** and show the user this friendly onboarding message:
 
 ---
 
-**🔑 API Key Required**
+**👋 Welcome to Humbot Humanizer!**
 
-To use the Humbot humanizer, you need an API key:
+To get started, you'll need an API key from Humbot. Don't worry - it's quick and easy!
 
-1. Visit **https://humbot.ai/ai-humanizer-api**
-2. Register or log in to get your API key
-3. Configure it by running:
-   ```bash
-   echo 'export HUMBOT_API_KEY="your_api_key_here"' >> ~/.bashrc
-   source ~/.bashrc
-   ```
-4. Replace `your_api_key_here` with your actual key
+**🚀 Quick Setup (2 minutes):**
 
-Once configured, I can humanize text for you! Just say "humanize this: [text]"
+**Step 1: Get Your API Key**
+1. Visit: **https://humbot.ai/ai-humanizer-api**
+2. Click "Sign Up" (or "Log In" if you have an account)
+3. Once logged in, find your **API Key** in the dashboard
+4. Copy the entire key (it looks like: `sk_xxxxxxxxxxxxxx`)
+
+**Step 2: Configure It**
+Run this command in your terminal (I can't do this for you):
+
+```bash
+echo 'export HUMBOT_API_KEY="paste_your_key_here"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+⚠️ **Important:** Replace `paste_your_key_here` with your actual API key from Step 1.
+
+**Step 3: Verify**
+Check it worked:
+```bash
+echo $HUMBOT_API_KEY
+```
+You should see your API key printed.
+
+**Need detailed help?** I've prepared a complete guide for you:
+- Read `GETTING_STARTED.md` for step-by-step instructions with screenshots
+- Or just say "I need help setting up my Humbot API key" and I'll guide you through it!
+
+Once you've set up your key, come back and say "humanize this: [your text]" and I'll get to work! 🎉
 
 ---
 
-**Do not proceed** with humanization until the user has configured their API key.
+**Do NOT proceed** with humanization attempts until the user confirms they've set up their API key.
+
+### If API Key IS Configured
+
+Great! Proceed with the humanization workflow below.
 
 ## What This Skill Does
 

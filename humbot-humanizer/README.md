@@ -2,6 +2,35 @@
 
 Transform AI-generated text into natural, human-like writing using the Humbot API.
 
+---
+
+## 🎯 New User? Start Here!
+
+**👉 Not sure where to begin?** Read **[START_HERE.md](START_HERE.md)** - it will guide you to the right documentation based on your experience level.
+
+**🚀 Quick links:**
+- **First time?** → [GETTING_STARTED.md](GETTING_STARTED.md) - Complete setup guide
+- **Have questions?** → [FAQ.md](FAQ.md) - 30+ common questions answered
+- **Need help fast?** → [QUICKSTART.md](QUICKSTART.md) - 3-minute setup
+
+---
+
+## 📖 Documentation
+
+**👉 New to this skill? Start here:**
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** ⭐ - Complete beginner's guide with step-by-step API key setup
+- **[FAQ.md](FAQ.md)** - Frequently asked questions and troubleshooting
+- **[QUICKSTART.md](QUICKSTART.md)** - 3-minute quick reference for experienced users
+
+**Usage & Examples:**
+- **[EXAMPLES.md](EXAMPLES.md)** - Real-world usage examples and workflows
+
+**Advanced:**
+- **[SKILL.md](SKILL.md)** - Technical documentation for AI assistants
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Get Your API Key

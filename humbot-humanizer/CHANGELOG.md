@@ -1,5 +1,53 @@
 # Changelog
 
+## Version 2.1.0 (2026-03-18)
+
+### 📖 Documentation Overhaul
+
+**New comprehensive guides for first-time users:**
+
+- **`GETTING_STARTED.md`** - Complete step-by-step guide for beginners
+  - Detailed API key acquisition process
+  - Platform-specific setup instructions (Linux/Mac/Windows)
+  - Troubleshooting common setup issues
+  - Testing and verification steps
+
+- **`FAQ.md`** - Extensive FAQ covering:
+  - Setup questions (API key, environment variables)
+  - Usage questions (models, timing, file formats)
+  - Error resolution (authentication, network, dependencies)
+  - Quality optimization tips
+  - Privacy and security concerns
+  - 30+ common questions answered
+
+### ✨ Improved Onboarding
+
+- **Enhanced `SKILL.md` first-time check:**
+  - Friendlier welcome message for new users
+  - Clear 3-step setup process
+  - References to detailed documentation
+  - Better error prevention
+
+- **Updated `README.md`:**
+  - Prominent links to beginner guides
+  - Clearer documentation hierarchy
+  - Added FAQ to main navigation
+
+### 🎯 User Experience Improvements
+
+- More welcoming tone in error messages
+- Clearer expectations for API key setup
+- Step-by-step instructions with visual hierarchy
+- Platform-specific commands (Windows PowerShell support)
+- Better cross-referencing between documentation files
+
+### 🔧 Technical
+
+- No code changes - purely documentation improvements
+- All existing functionality remains unchanged
+
+---
+
 ## Version 2.0.0 (2026-03-14)
 
 ### 🚀 Major Updates
