@@ -50,7 +50,8 @@ Open your browser and go to:
 
 👉 **https://humbot.ai**
 
-![Humbot Homepage](assets/screenshot-01-homepage.png)
+**[📸 Screenshot 1: Humbot Homepage]**
+*Description: Show humbot.ai homepage, highlight the address bar URL*
 
 ---
 
@@ -58,7 +59,8 @@ Open your browser and go to:
 
 On the homepage, click the **"Log In / Register"** button in the top navigation bar.
 
-![Login/Register Button](assets/screenshot-02-login-register.png)
+**[📸 Screenshot 2: Login/Register Button]**
+*Description: Show top navigation bar, highlight "Log In / Register" button*
 
 - If you already have an account, enter your credentials and log in
 - If you're new, complete the registration process
@@ -71,7 +73,8 @@ Once logged in, click the **"API"** link in the top navigation bar to go to the 
 
 👉 **https://humbot.ai/ai-humanizer-api**
 
-![API Navigation](assets/screenshot-03-api-nav.png)
+**[📸 Screenshot 3: API Navigation]**
+*Description: Show top navigation bar with "API" text button highlighted*
 
 ---
 
@@ -79,7 +82,8 @@ Once logged in, click the **"API"** link in the top navigation bar to go to the 
 
 On the API page, scroll down to view the **API Subscription Plans** and purchase a plan that suits your needs.
 
-![API Subscription Plans](assets/screenshot-04-subscription.png)
+**[📸 Screenshot 4: API Subscription Plans]**
+*Description: Show API subscription plans section, highlight pricing cards and purchase button*
 
 ---
 
@@ -87,7 +91,8 @@ On the API page, scroll down to view the **API Subscription Plans** and purchase
 
 After purchasing, click on your **avatar** in the top right corner to open the dropdown menu, then select **"API Overview"**.
 
-![Avatar Dropdown Menu](assets/screenshot-05-avatar-dropdown.png)
+**[📸 Screenshot 5: Avatar Dropdown Menu]**
+*Description: Show user avatar dropdown menu, highlight "API Overview" option*
 
 ---
 
@@ -99,7 +104,8 @@ On the API Overview page, you'll see your API key displayed. Click the **"Copy"*
 Your API Key: sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-![API Key Display](assets/screenshot-06-apikey-copy.png)
+**[📸 Screenshot 6: API Key Display]**
+*Description: Show API Overview page with API key display area and Copy button highlighted*
 
 ⚠️ **Important Security Notes:**
 - 🔒 Keep this key secret (like a password)
@@ -289,6 +295,8 @@ To complete this tutorial, you need to add **6 screenshots** for the API key ret
 4. `screenshot-04-subscription.png` - API Subscription Plans section
 5. `screenshot-05-avatar-dropdown.png` - Avatar dropdown menu with API Overview option
 6. `screenshot-06-apikey-copy.png` - API Overview page with Copy button
+
+**Note:** After adding screenshots, update the image references in this file from `[📸 Screenshot X: Description]` to actual image links like `![Description](assets/screenshot-XX-name.png)`.
 
 ---
 
