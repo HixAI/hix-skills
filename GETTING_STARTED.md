@@ -50,8 +50,7 @@ Open your browser and go to:
 
 👉 **https://humbot.ai**
 
-**<img width="1906" height="951" alt="企业微信截图_17738913989152" src="https://github.com/user-attachments/assets/80f10e83-e039-48ea-91a8-a5084e266588" />
-**
+<img width="1906" height="951" alt="企业微信截图_17738913989152" src="https://github.com/user-attachments/assets/80f10e83-e039-48ea-91a8-a5084e266588" />
 *Description: Show humbot.ai homepage, highlight the address bar URL*
 
 ---
@@ -60,8 +59,7 @@ Open your browser and go to:
 
 On the homepage, click the **"Log In / Register"** button in the top navigation bar.
 
-**<img width="1915" height="950" alt="企业微信截图_17738910812293" src="https://github.com/user-attachments/assets/71828b4b-97ff-42fe-8940-9cbdc3223d91" />
-**
+<img width="1915" height="950" alt="企业微信截图_17738910812293" src="https://github.com/user-attachments/assets/71828b4b-97ff-42fe-8940-9cbdc3223d91" />
 *Description: Show top navigation bar, highlight "Log In / Register" button*
 
 - If you already have an account, enter your credentials and log in
@@ -75,8 +73,7 @@ Once logged in, click the **"API"** link in the top navigation bar to go to the 
 
 👉 **https://humbot.ai/ai-humanizer-api**
 
-**<img width="1909" height="954" alt="企业微信截图_17738910588672" src="https://github.com/user-attachments/assets/c459fd7a-1175-4d3d-b21f-54939ab6b8ac" />
-**
+<img width="1909" height="954" alt="企业微信截图_17738910588672" src="https://github.com/user-attachments/assets/c459fd7a-1175-4d3d-b21f-54939ab6b8ac" />
 *Description: Show top navigation bar with "API" text button highlighted*
 
 ---
@@ -85,8 +82,7 @@ Once logged in, click the **"API"** link in the top navigation bar to go to the 
 
 On the API page, scroll down to view the **API Subscription Plans** and purchase a plan that suits your needs.
 
-**<img width="1908" height="952" alt="企业微信截图_17738911125668" src="https://github.com/user-attachments/assets/a504e9c3-7a6b-422f-b63f-2d47ac8c2b15" />
-**
+<img width="1908" height="952" alt="企业微信截图_17738911125668" src="https://github.com/user-attachments/assets/a504e9c3-7a6b-422f-b63f-2d47ac8c2b15" />
 *Description: Show API subscription plans section, highlight pricing cards and purchase button*
 
 ---
@@ -95,8 +91,7 @@ On the API page, scroll down to view the **API Subscription Plans** and purchase
 
 After purchasing, click on your **avatar** in the top right corner to open the dropdown menu, then select **"API Overview"**.
 
-**<img width="1906" height="962" alt="企业微信截图_17738912508781" src="https://github.com/user-attachments/assets/5827f2fd-dbd4-447b-adb6-c3f5fd8b5305" />
-**
+<img width="1906" height="962" alt="企业微信截图_17738912508781" src="https://github.com/user-attachments/assets/5827f2fd-dbd4-447b-adb6-c3f5fd8b5305" />
 *Description: Show user avatar dropdown menu, highlight "API Overview" option*
 
 ---
@@ -109,8 +104,8 @@ On the API Overview page, you'll see your API key displayed. Click the **"Copy"*
 Your API Key: sk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-**<img width="1750" height="946" alt="企业微信截图_17738911796273" src="https://github.com/user-attachments/assets/93cc8bdb-3502-4977-b01b-8020e0824e40" />
-**
+<img width="1907" height="952" alt="企业微信截图_17739099103617" src="https://github.com/user-attachments/assets/f3a11c21-cc80-4efd-acca-f0bc70c943bf" />
+
 *Description: Show API Overview page with API key display area and Copy button highlighted*
 
 ⚠️ **Important Security Notes:**
